@@ -1,6 +1,6 @@
 {
   "name": "blog-live-test-fixed-vercel-config",
-  "version": "1.0.0",
+  "version": "1.0.8467",
   "private": true,
   "scripts": {
     "dev": "next dev",
